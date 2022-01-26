@@ -1,2 +1,2 @@
-# flappybird
+# FlappyBird
 Fan made FlappyBird Game
